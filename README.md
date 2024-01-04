@@ -18,7 +18,7 @@ This is a basic task tracker application built using React. It allows users to a
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/calculator-app.git`
+1. Clone the repository: `git clone https://github.com/AbdulkarimMziya/ToDO_ReactApp`
 2. Navigate to the project folder: `cd ToDo_App`
 3. Install dependencies: `npm install`
 4. Run the app: `npm run dev`
