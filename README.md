@@ -23,3 +23,6 @@ This is a basic task tracker application built using React. It allows users to a
 3. Install dependencies: `npm install`
 4. Run the app: `npm run dev`
 5. Open your browser and go to `http://localhost:5173/`
+
+## Images
+<img src="public/app-img.png" alt="Your Image" width="200" height="150" />
