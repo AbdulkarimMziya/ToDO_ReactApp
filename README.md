@@ -25,4 +25,4 @@ This is a basic task tracker application built using React. It allows users to a
 5. Open your browser and go to `http://localhost:5173/`
 
 ## Images
-<img src="public/app-img.png" alt="Your Image" width="200" height="150" />
+<img src="ToDo_App/public/app-img.png" alt="Your Image" width="200" height="150" />
